@@ -1,0 +1,7 @@
+C:\Users\ben\source\repos\UnitTestProject1_LA\Console_Chall_Week2\bin\Debug\Console_Chall_Week2.exe.config
+C:\Users\ben\source\repos\UnitTestProject1_LA\Console_Chall_Week2\bin\Debug\Console_Chall_Week2.exe
+C:\Users\ben\source\repos\UnitTestProject1_LA\Console_Chall_Week2\bin\Debug\Console_Chall_Week2.pdb
+C:\Users\ben\source\repos\UnitTestProject1_LA\Console_Chall_Week2\obj\Debug\Console_Chall_Week2.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\UnitTestProject1_LA\Console_Chall_Week2\obj\Debug\Console_Chall_Week2.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\UnitTestProject1_LA\Console_Chall_Week2\obj\Debug\Console_Chall_Week2.exe
+C:\Users\ben\source\repos\UnitTestProject1_LA\Console_Chall_Week2\obj\Debug\Console_Chall_Week2.pdb
