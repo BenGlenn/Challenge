@@ -10,9 +10,14 @@ namespace Console_Chall_Week2
     {
         static void Main(string[] args)
         {
+            
         Greeter greeter = new Greeter();
             greeter.DayTimeGreeting();
             greeter.TimeGreeting();
+            greeter.Greeting("Ben");
+            greeter.Hello();
+            greeter.Farwell("Ben");
+
 
             Console.ReadLine();
             
